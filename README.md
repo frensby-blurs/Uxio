@@ -27,8 +27,7 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 > ⚠️ *Añade tus capturas dentro de los bloques cuando las tengas.*
 
 ### 🏠 Pantalla Principal
-
-![Home](images/home.jpg)
+<img src="image/pro.jpg" height=600 width="300" />
 
 
 ### 📝 Crear / Editar Nota
