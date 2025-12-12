@@ -33,7 +33,7 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 ### 📝 Crear / Editar Nota
 
 ```
-![Editor](images/note.jpg)
+<img src="images/note.jpg" height=600 width="300" />
 ```
 
 ---
@@ -53,15 +53,15 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 Tu app incluye **5 temas** listos para usar:
 
 #### Pro
-![Editor](images/pro.jpg)
+<img src="images/pro.jpg" height=600 width="300" />
 #### Tec
-![Editor](images/tec.jpg)
+<img src="images/tec.jpg" height=600 width="300" />
 #### Pastel
-![Editor](images/pastel.jpg)
+<img src="images/pastel.jpg" height=600 width="300" />
 #### Elegante
-![Editor](images/elegant.jpg)
+<img src="images/elegant.jpg" height=600 width="300" />
 #### Pink
-![Editor](images/pink.jpg)
+<img src="images/pink.jpg" height=600 width="300" />
 
 Cada uno cambia colores del fondo, acentos, texto y gradientes.
 
