@@ -54,12 +54,20 @@ Tu app incluye **5 temas** listos para usar:
 
 ### Pro
 <img src="images/home.jpg" height=600 width="300" />
+
+---
 ### Tec
 <img src="images/tec.jpg" height=600 width="300" />
+
+---
 ### Pastel
 <img src="images/pastel.jpg" height=600 width="300" />
+
+---
 ### Elegante
 <img src="images/elegant.jpg" height=600 width="300" />
+
+---
 ### Pink
 <img src="images/pink.jpg" height=600 width="300" />
 
