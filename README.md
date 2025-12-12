@@ -48,19 +48,19 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 
 * Vista previa al dejar presionado en la parte inferior de la nota
 
-### ✔️ Temas dinámicos integrados
+## ✔️ Temas dinámicos integrados
 
 Tu app incluye **5 temas** listos para usar:
 
-#### Pro
-<img src="images/pro.jpg" height=600 width="300" />
-#### Tec
+### Pro
+<img src="images/home.jpg" height=600 width="300" />
+### Tec
 <img src="images/tec.jpg" height=600 width="300" />
-#### Pastel
+### Pastel
 <img src="images/pastel.jpg" height=600 width="300" />
-#### Elegante
+### Elegante
 <img src="images/elegant.jpg" height=600 width="300" />
-#### Pink
+### Pink
 <img src="images/pink.jpg" height=600 width="300" />
 
 Cada uno cambia colores del fondo, acentos, texto y gradientes.
